@@ -1,0 +1,119 @@
+
+/* Default Font */
+body, div, span, ul, li, p, td {
+  font-family:		Arial;
+  font-size:		12px;
+  color:		#CCCCCC
+}
+
+/* Module 1 */
+.module1 {
+  background-image:	url('/web/20110204050542im_/http://paramountinternet.com/images/module1-bg.jpg');
+  padding-left:		10px;
+  padding-right:	8px;
+  font-family:		Arial;
+  font-size:		11px;
+  color:		#FFFFFF
+}
+
+/* Module 2 */
+.module2 {
+  background-image:	url('/web/20110204050542im_/http://paramountinternet.com/images/module2-inner.jpg');
+  background-repeat:	no-repeat;
+  background-position:	left top;
+  padding-top:		6px;
+  padding-left:		10px;
+  padding-right:	8px;
+  font-family:		Arial;
+  font-size:		11px;
+  color:		#FFFFFF
+}
+
+/* Links */
+a:link {
+  font-weight:		bold;
+  text-decoration:	none;
+  color:		#CCCCFF
+}
+a:active {
+  font-weight:		bold;
+  text-decoration:	none;
+  color:		#CCCCFF
+}
+a:visited {
+  font-weight:		bold;
+  text-decoration:	none;
+  color:		#CCCCFF
+}
+a:hover {
+  font-weight:		bold;
+  text-decoration:	underline;
+  color:		#CCCCFF
+}
+
+/* Page Title */
+.title {
+  font-family:		Arial;
+  font-size:		14px;
+  font-style:		italic;
+  font-weight:		bold;
+  color:		#FFFFFF
+}
+
+/* Headline */
+.headline {
+  font-family:		Arial;
+  font-size:		12px;
+  font-weight:		bold;
+  color:		#FFCC00
+}
+
+/* Plan Title */
+.plan-title {
+  font-family:		Arial;
+  font-size:		12px;
+  font-weight:		bold;
+  color:		#FFFFFF
+}
+
+/* Plan Text */
+.plan-text {
+  font-family:		Arial;
+  font-size:		11px;
+  color:		#FFFFFF
+}
+
+/* Plan Bottom */
+.plan-bottom {
+  font-family:		Verdana;
+  font-size:		11px;
+  color:		#FFFFFF
+}
+
+/* Footer Text */
+.footer {
+  font-family:		Verdana;
+  font-size:		10px;
+  color:		#CCCCCC
+}
+
+/*
+     FILE ARCHIVED ON 05:05:42 Feb 04, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:41:56 Aug 05, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.737
+  exclusion.robots: 0.043
+  exclusion.robots.policy: 0.02
+  esindex: 0.019
+  cdx.remote: 6.563
+  LoadShardBlock: 1014.35 (3)
+  PetaboxLoader3.datanode: 59.601 (4)
+  PetaboxLoader3.resolve: 1417.855 (3)
+  load_resource: 473.86
+*/
